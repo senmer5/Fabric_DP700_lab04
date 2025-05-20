@@ -1,4 +1,3 @@
-# Fabric_DP700_lab04
 # Ingest Data with a Pipeline in Microsoft Fabric
 
 ## Lab Purpose
